@@ -1,0 +1,63 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.main {
+    margin-top: 80px !important;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 3vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+#about {
+    margin-top: 5vw;
+    background-color: #f1f1f1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.carousel {
+    width: 800px;
+    height: 450px;
+}
+
+h3 {
+    margin-top: 50px;
+}
+
+#history {
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.cox {
+    margin-top: 60px;
+}
+
+.col-md-6 img {
+    border-radius: 8px;
+}
+
+.sundarban {
+    margin-top: 60px;
+}
+
+.txt {
+    text-align: left;
+}
+
+#pricing {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.copy {
+    color: gray;
+}
